@@ -151,6 +151,16 @@ h1.temp {
     left: 20px;
 }
 
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(245, 150, 9);
+    color: white;
+    text-align: center;
+ }
+
 
 /*MEDIA QUERIES CODE COMES IN HERE */
 @media (max-width: 800px) {
